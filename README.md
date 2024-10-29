@@ -1,7 +1,7 @@
-# ZeyStore - Sistem Registrasi Pengguna
+# ZeyStore - Online Shop With Whatsapp
 
 ## 📑 Deskripsi
-ZeyStore adalah sistem registrasi pengguna modern dengan antarmuka yang menarik menggunakan desain glassmorphism. Sistem ini dibangun dengan PHP dan menggunakan database untuk menyimpan informasi pengguna dengan aman.
+ZeyStore adalah sistem penjualan barang online berbasis whatsapp untuk pembayaranya.
 
 ## ✨ Fitur
 - Registrasi pengguna dengan validasi form
